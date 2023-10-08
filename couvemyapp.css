@@ -3019,7 +3019,7 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-2yBXZl {
   border-radius: 0 8px 8px 0;
 }
 :root .gameActivityToggleAdded-Yd-YxC > div:last-child button:first-child {
-  color: var(#b543b5);
+  color: #b543b5;
 }
 :root .activityPanel-9icbyU ~ .gameActivityToggleAdded-Yd-YxC > div:last-child button:first-child {
   margin-right: 35px;
