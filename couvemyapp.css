@@ -81,7 +81,7 @@
 }
 :root .botTagRegular-kpctgU {
   border-radius: 5px;
-  background: var(--main-color);
+  background: var(#b543b5);
 }
 :root .botTagOP-3pUTXu {
   color: white;
@@ -89,7 +89,7 @@
 :root .wrapper-1ZcZW- {
   background: transparent !important;
   position: relative;
-  color: var(--main-color) !important;
+  color: var(#b543b5) !important;
 }
 :root .wrapper-1ZcZW-.mention {
   border-radius: 5px;
@@ -104,7 +104,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: var(--main-color);
+  background-color: var(#b543b5);
   opacity: 0.08;
   border-radius: 5px;
   transition: opacity 200ms;
@@ -417,7 +417,7 @@
 :root .wrapperAudio-1Bzv_Z .audioControls-3fmemK .mediaBarWrapper-33h1oY .mediaBarProgress-38I317:after,
 :root .wrapperAudio-1Bzv_Z .audioControls-3fmemK .mediaBarWrapper-33h1oY .mediaBarProgress-38I317:before,
 :root .wrapperAudio-1Bzv_Z .audioControls-3fmemK .mediaBarWrapper-33h1oY .mediaBarGrabber-FvJKJg {
-  background: var(--main-color) !important;
+  background: var(#b543b5) !important;
 }
 :root .embedFull-1HGV2S {
   width: calc(100% + 100px);
@@ -553,7 +553,7 @@
 }
 :root .scrollableContainer-15eg7h .lookFilled-yCfaCM.colorPrimary-2AuQVo,
 :root .wrapper-2SplAX .lookFilled-yCfaCM.colorPrimary-2AuQVo {
-  background-color: var(--main-color);
+  background-color: var(#b543b5);
 }
 :root .container-3wLKDe {
   background-color: var(--background-secondary);
@@ -619,7 +619,7 @@
   padding: 30px 0;
 }
 :root .guilds-2JjMmN .scroller-3X7KbA > .tutorialContainer-2sGCg9:first-child > .listItem-3SmSlK .childWrapper-1j_1ub {
-  background: var(--main-color);
+  background: var(#b543b5);
   color: #fff;
 }
 :root .guilds-2JjMmN .scroller-3X7KbA > .listItem-3SmSlK:nth-last-child(2) {
@@ -650,14 +650,14 @@
 }
 :root .guilds-2JjMmN .scroller-3X7KbA .listItem-3SmSlK .lowerBadge-3j0ZAg .numberBadge-37OJ3S {
   min-width: 25px;
-  background: var(--main-color) !important;
+  background: var(#b543b5) !important;
   font-size: 8px;
 }
 :root .guilds-2JjMmN .scroller-3X7KbA .listItem-3SmSlK .lowerBadge-3j0ZAg:last-child .numberBadge-37OJ3S {
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5333333333);
 }
 :root .guilds-2JjMmN .scroller-3X7KbA .listItem-3SmSlK .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, :root .guilds-2JjMmN .scroller-3X7KbA .listItem-3SmSlK .wrapper-3kah-n:hover .childWrapper-1j_1ub {
-  background: var(--main-color);
+  background: var(#b543b5);
 }
 :root .guilds-2JjMmN .scroller-3X7KbA .listItem-3SmSlK .wrapper-3kah-n .childWrapper-1j_1ub {
   background: var(--background-secondary);
@@ -695,8 +695,8 @@
 }
 :root .guilds-2JjMmN .scroller-3X7KbA .tutorialContainer-2jwoiB:hover .circleIconButton-1VxDrg, :root .guilds-2JjMmN .scroller-3X7KbA .tutorialContainer-2jwoiB + .listItem-3SmSlK:hover .circleIconButton-1VxDrg {
   background: transparent;
-  color: var(--main-color);
-  border-color: var(--main-color);
+  color: var(#b543b5);
+  border-color: var(#b543b5);
 }
 :root .guilds-2JjMmN .scroller-3X7KbA .tutorialContainer-2jwoiB .wrapperSimple-2SFl9K, :root .guilds-2JjMmN .scroller-3X7KbA .tutorialContainer-2jwoiB + .listItem-3SmSlK .wrapperSimple-2SFl9K {
   overflow: visible;
@@ -724,7 +724,7 @@
   border-radius: 0;
 }
 :root .guilds-2JjMmN .mention-3XBnnZ:hover {
-  color: var(--main-color);
+  color: var(#b543b5);
 }
 :root .guilds-2JjMmN .unreadMentionsIndicatorBottom-BXS58x .mention-3XBnnZ {
   background: transparent;
@@ -921,7 +921,7 @@
   background: transparent;
 }
 :root .container-ZMc96U.title-31SJ6t:not(.minimum-fXpVNc) .search-39IXmY .searchBar-jGtisZ .icon-18rqoe {
-  color: var(--main-color);
+  color: var(#b543b5);
 }
 :root .container-2McqkF {
   background: var(--background-secondary-alt-alt);
@@ -977,7 +977,7 @@
   background: var(#b543b5);
 }
 :root .container-2McqkF .datePickerHint-Ir4715 .hintValue-V9hd8l {
-  background: var(--main-color);
+  background: var(#b543b5);
 }
 :root .searchResultsWrap-5RVOkx {
   background: var(--background-secondary);
@@ -1959,7 +1959,7 @@
   margin: 0;
 }
 :root .panels-3wFtMD .activityPanel-9icbyU .actions-zk2vB_ .button-f2h6uQ {
-  color: var(--main-color);
+  color: var(#b543b5);
 }
 :root .panels-3wFtMD .activityPanel-9icbyU:hover {
   background-color: var(--background-modifier-selected);
@@ -1983,7 +1983,7 @@
   color: #888;
 }
 :root .panels-3wFtMD > .container-YkUktl .button-12Fmur[aria-checked=false].enabled-9OeuTA {
-  color: var(--main-color);
+  color: var(#b543b5);
 }
 :root .noChat-2UYgeE.wrapper-1gVUIN {
   background: #000;
@@ -2108,7 +2108,7 @@
   display: none;
 }
 :root .akaBadge-3i7V3p {
-  background: var(--main-color);
+  background: var(#b543b5);
   color: #fff;
 }
 :root .wrapper-1gVUIN:not(.video-3n15R6) {
@@ -2551,10 +2551,10 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-2yBXZl {
 }
 :root .lookFilled-1H2Jvj.colorBrand-2M3O3N,
 :root .lookFilled-1H2Jvj.colorBrand-2M3O3N:hover {
-  background: var(--main-color) !important;
+  background: var(#b543b5) !important;
 }
 :root .item-2idW98[style*=background-color] {
-  background: var(--main-color) !important;
+  background: var(#b543b5) !important;
 }
 :root .checked-16gMAN {
   border: none;
@@ -2566,7 +2566,7 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-2yBXZl {
   background: var(--background-secondary-alt-alt);
 }
 :root .bar-2H7Q9u .barFill-3RgCsY {
-  background: var(--main-color);
+  background: var(#b543b5);
 }
 :root .grabber-3R-Rx9 {
   border: none;
@@ -2824,7 +2824,7 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-2yBXZl {
   background-color: var(--background-secondary);
 }
 :root .inviteButton-17ob8h {
-  background-color: var(--main-color);
+  background-color: var(#b543b5);
 }
 :root .mainTableContainer-3Nxvkd {
   background-color: var(--background-secondary);
@@ -2839,7 +2839,7 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-2yBXZl {
   background: var(--background-primary);
 }
 :root .keyboardShortcutsModal-2CRmCm .keybindShortcut-3zF1P9 span {
-  background: var(--main-color);
+  background: var(#b543b5);
 }
 :root .container-1ILvLB {
   border-radius: 12px;
@@ -2998,10 +2998,10 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-2yBXZl {
 }
 
 :root {
-  --brand-400: var(--main-color);
-  --brand-500: var(--main-color);
-  --text-brand: var(--main-color);
-  --control-brand-foreground: var(--main-color);
+  --brand-400: var(#b543b5);
+  --brand-500: var(#b543b5);
+  --text-brand: var(#b543b5);
+  --control-brand-foreground: var(#b543b5);
 }
 
 :root .scale-3UGUBw.didRender-2SiRlm {
@@ -3019,7 +3019,7 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-2yBXZl {
   border-radius: 0 8px 8px 0;
 }
 :root .gameActivityToggleAdded-Yd-YxC > div:last-child button:first-child {
-  color: var(--main-color);
+  color: var(#b543b5);
 }
 :root .activityPanel-9icbyU ~ .gameActivityToggleAdded-Yd-YxC > div:last-child button:first-child {
   margin-right: 35px;
