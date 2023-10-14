@@ -1034,7 +1034,7 @@
   margin: 0 auto;
 }
 :root .recentMentionsPopout-2bI1ZN .header-1w9Q93 .topPill-3DJJNV .tab-TRrPC8.active-1grPyy {
-  background: var(--background-primary);
+  background: pink;
 }
 :root .recentMentionsPopout-2bI1ZN .header-1w9Q93 .secondary-2bzKEX {
   position: absolute;
@@ -2647,7 +2647,7 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-2yBXZl {
   transition: background 200ms;
 }
 :root .item-5ApiZt:hover, :root .item-5ApiZt.focused-3LIdPu, :root .item-5ApiZt:active:not(.hideInteraction-1vQrZJ) {
-  background-color: rgba(255, 255, 255, 0.05);
+  background-color: rgba(255, 192, 203, 0.05);
 }
 :root .accountProfilePopoutWrapper-3GskID {
   position: fixed;
